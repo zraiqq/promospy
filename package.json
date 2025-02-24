@@ -1,1 +1,19 @@
-npm init -y
+{
+  "name": "promospy",
+  "version": "1.0.0",
+  "description": "Outil de comparatif pour Promodis,
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  }
+}
