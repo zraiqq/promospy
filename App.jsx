@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import PriceTracker from "./pricetracker";
+import PriceTracker from "./pricetracker.jsx";
 
 function App() {
   return (
